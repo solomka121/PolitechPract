@@ -7,6 +7,10 @@ using UnityEngine.SceneManagement;
 public class ControllerUI : MonoBehaviour
 {
     public static ControllerUI controllerUI;
+    [SerializeField] private Text player1Score;
+    private int score1;
+    [SerializeField] private Text player2Score;
+    private int score2;
 
     public GameObject winPanel;
     public Text playerWin;
@@ -19,12 +23,24 @@ public class ControllerUI : MonoBehaviour
         controllerUI = this;
     }
 
-    public void SetWinPlayer(int player) {
-        endGame = true;
-        playerWin.text = "PLayer" + player.ToString() + "   Win!";
-        winPanel.SetActive(true);
-        if(BallController.n <= 8)
-            BallController.n++;
+    public void SetCounter(int player) {
+
+        switch (player)
+        {
+            case 2:
+                score1 += 1;
+                player1Score.text = $"Score : {score1}";
+                break;
+            case 1:
+                score2 += 1;
+                player2Score.text = $"Score : {score2}";
+                break;
+        }
+        // endGame = true;
+        // playerWin.text = "PLayer" + player.ToString() + "   Win!";
+        // winPanel.SetActive(true);
+        // if(BallController.n <= 8)
+        //     BallController.n++;
     }
 
     public void PlayAgain() {

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="977de7ca-0071-495f-b659-25a420afd832" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Matrials/Plane2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Matrials/Plane2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Matrials/Player1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Matrials/Player1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Matrials/Player2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Matrials/Player2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Matrials/Process.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Matrials/Process.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Matrials/Z.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Matrials/Z.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BallController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BallController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ControllerUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ControllerUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GoalController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GoalController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Wall_X.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Wall_X.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ControllerLine.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ControllerLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Wall_X.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GoalController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ControllerUI.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dCkwHqaUwJMIuoH8IotmPZ7704" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="dotNetConsole" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="977de7ca-0071-495f-b659-25a420afd832" name="Default Changelist" comment="" />
+      <created>1709519692852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709519692852</updated>
+      <workItem from="1709519732029" duration="8574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

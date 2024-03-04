@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\solom\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\solom\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_PolitechPract.1225712227.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Projects\PolitechPract\PolitechPract\PolitechPract" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Common" t="Include">
+          <e p="Editor" t="Include">
+            <e p="CommonEditor.asmdef" t="Include" />
+            <e p="ConfigurePlayerSettings.cs" t="Include" />
+            <e p="OptionsConfigEditor.cs" t="Include" />
+            <e p="VersionChecker" t="Include">
+              <e p="VersionChecker.cs" t="Include" />
+              <e p="VuforiaVersionCheckerScripts.asmdef" t="Include" />
+            </e>
+          </e>
+          <e p="Icons" t="Include">
+            <e p="Android" t="Include" />
+            <e p="iOS" t="Include" />
+            <e p="UWP" t="Include" />
+          </e>
+          <e p="Materials" t="Include" />
+          <e p="Prefabs" t="Include" />
+          <e p="Resources" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="AboutManager.cs" t="Include" />
+            <e p="AboutScreenInfo.cs" t="Include" />
+            <e p="AmbientLightManager.cs" t="Include" />
+            <e p="AsyncSceneLoader.cs" t="Include" />
+            <e p="AutoFocusSettings.cs" t="Include" />
+            <e p="CameraSettings.cs" t="Include" />
+            <e p="CloudErrorHandler.cs" t="Include" />
+            <e p="CloudRecoEventHandler.cs" t="Include" />
+            <e p="CloudRecoScanLine.cs" t="Include" />
+            <e p="CommonScripts.asmdef" t="Include" />
+            <e p="FrameRateSettings.cs" t="Include" />
+            <e p="HyperlinkHandler.cs" t="Include" />
+            <e p="InitErrorHandler.cs" t="Include" />
+            <e p="LoadingScreen.cs" t="Include" />
+            <e p="MenuAnimator.cs" t="Include" />
+            <e p="MenuOptions.cs" t="Include" />
+            <e p="MessageBox.cs" t="Include" />
+            <e p="NavigationHandler.cs" t="Include" />
+            <e p="OptionsConfig.cs" t="Include" />
+            <e p="SafeAreaManager.cs" t="Include" />
+            <e p="SamplesMainMenu.cs" t="Include" />
+            <e p="SceneOrientation.cs" t="Include" />
+            <e p="StatusMessage.cs" t="Include" />
+            <e p="TapHandler.cs" t="Include" />
+            <e p="TrackableSettings.cs" t="Include" />
+            <e p="VLog.cs" t="Include" />
+          </e>
+          <e p="Sprites" t="Include" />
+        </e>
+        <e p="Editor" t="Include">
+          <e p="Migration" t="Include">
+            <e p="AddVuforiaEnginePackage.cs" t="Include" />
+            <e p="EditorMigrationScripts.asmdef" t="Include" />
+          </e>
+          <e p="Vuforia" t="Include">
+            <e p="CylinderTargetTextures" t="Include">
+              <e p="VuforiaMars_Images" t="Include">
+                <e p="authoringinfo.xml" t="Include" />
+              </e>
+            </e>
+            <e p="ForPrint" t="Include">
+              <e p="CylinderTarget" t="Include" />
+              <e p="ImageTargets" t="Include" />
+              <e p="MultiTarget" t="Include" />
+              <e p="ObjectTarget" t="Include" />
+              <e p="VuMark" t="Include" />
+            </e>
+            <e p="ImageTargetTextures" t="Include">
+              <e p="PolitechPract" t="Include" />
+              <e p="TestMarkers" t="Include" />
+              <e p="VuforiaEmulator" t="Include" />
+              <e p="VuforiaMars_Images" t="Include" />
+            </e>
+            <e p="TargetsetData" t="Include">
+              <e p="VuforiaMars_Object" t="Include" />
+              <e p="VuforiaMars_Object_info.xml" t="Include" />
+            </e>
+            <e p="Test2" t="Include">
+              <e p="authoringinfo.xml" t="Include" />
+            </e>
+            <e p="Vuforia_Marslander_RZR_Toy360" t="Include">
+              <e p="531fd89ee0b74baa86c1e50d877121e1" t="Include" />
+              <e p="authoringinfo.xml" t="Include" />
+              <e p="d47e9b97bf9b4ecd8afe939754eec55f" t="Include" />
+            </e>
+            <e p="VuforiaMars_ModelTarget" t="Include">
+              <e p="91f5220e29224e4fa198e66214e43292" t="Include" />
+              <e p="authoringinfo.xml" t="Include" />
+            </e>
+            <e p="VuforiaMars_VuMark" t="Include">
+              <e p="authoringinfo.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Fonts" t="Include" />
+        <e p="Images" t="Include">
+          <e p="Shop" t="Include" />
+        </e>
+        <e p="Matrials" t="Include" />
+        <e p="ParrelSync" t="Include">
+          <e p="Examples" t="Include">
+            <e p="CustomArgumentExample.cs" t="Include" />
+          </e>
+          <e p="ParrelSync" t="Include">
+            <e p="Editor" t="Include">
+              <e p="AssetModBlock" t="Include">
+                <e p="EditorQuit.cs" t="Include" />
+                <e p="ParrelSyncAssetModificationProcessor.cs" t="Include" />
+              </e>
+              <e p="ClonesManager.cs" t="Include" />
+              <e p="ClonesManagerWindow.cs" t="Include" />
+              <e p="ExternalLinks.cs" t="Include" />
+              <e p="FileUtilities.cs" t="Include" />
+              <e p="NonCore" t="Include">
+                <e p="AskFeedbackDialog.cs" t="Include" />
+                <e p="OtherMenuItem.cs" t="Include" />
+              </e>
+              <e p="Preferences.cs" t="Include" />
+              <e p="Project.cs" t="Include" />
+              <e p="UpdateChecker.cs" t="Include" />
+              <e p="ValidateCopiedFoldersIntegrity.cs" t="Include" />
+            </e>
+            <e p="package.json" t="Include" />
+            <e p="projectCloner.asmdef" t="Include" />
+          </e>
+          <e p="VERSION.txt" t="Include" />
+        </e>
+        <e p="PhisicsMaterials" t="Include" />
+        <e p="PolygonSciFiCity" t="Include">
+          <e p="Materials" t="Include">
+            <e p="Alternates" t="Include" />
+            <e p="Misc" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="Collision" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+            <e p="FixedScaleCharacters" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+          </e>
+          <e p="Prefabs" t="Include">
+            <e p="Buildings" t="Include" />
+            <e p="Characters" t="Include">
+              <e p="FixedScaleCharacters" t="Include" />
+            </e>
+            <e p="Environments" t="Include" />
+            <e p="FX" t="Include" />
+            <e p="Icons" t="Include" />
+            <e p="Props" t="Include" />
+            <e p="Signs" t="Include" />
+            <e p="Vehicles" t="Include" />
+            <e p="Weapons" t="Include" />
+          </e>
+          <e p="Scenes" t="Include" />
+          <e p="Shaders" t="Include">
+            <e p="Polygon_Triplanar.shader" t="Include" />
+            <e p="Polygon_UVScroll.shader" t="Include" />
+          </e>
+          <e p="Textures" t="Include">
+            <e p="Alternates" t="Include" />
+          </e>
+        </e>
+        <e p="Prefabs" t="Include" />
+        <e p="Resources" t="Include" />
+        <e p="SamplesResources" t="Include">
+          <e p="AugmentationAssets" t="Include">
+            <e p="Animation" t="Include">
+              <e p="Astronaut" t="Include" />
+              <e p="Drone" t="Include" />
+              <e p="Habitat" t="Include" />
+              <e p="OxygenTank" t="Include" />
+            </e>
+            <e p="Materials" t="Include">
+              <e p="Astronaut" t="Include" />
+              <e p="Drone" t="Include" />
+              <e p="Habitat" t="Include" />
+              <e p="Oxygen" t="Include" />
+              <e p="Rocks" t="Include" />
+            </e>
+            <e p="Models" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="Augmentations" t="Include">
+                <e p="Astronaut.cs" t="Include" />
+                <e p="Augmentation.cs" t="Include" />
+                <e p="Drone.cs" t="Include" />
+                <e p="Fissure.cs" t="Include" />
+                <e p="Habitat.cs" t="Include" />
+                <e p="OxygenTank.cs" t="Include" />
+                <e p="RockPileController.cs" t="Include" />
+              </e>
+              <e p="InteractionHelpers" t="Include">
+                <e p="DrillController.cs" t="Include" />
+                <e p="FadeObject.cs" t="Include" />
+              </e>
+              <e p="StateMachineBehaviours" t="Include">
+                <e p="AstronautStateMachineBehaviour.cs" t="Include" />
+                <e p="AugmentationStateMachineBehaviour.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Textures" t="Include">
+              <e p="Astronaut" t="Include">
+                <e p="Materials" t="Include" />
+              </e>
+              <e p="Drone" t="Include" />
+              <e p="Habitat" t="Include" />
+              <e p="Oxygen" t="Include" />
+              <e p="Rocks" t="Include" />
+            </e>
+          </e>
+          <e p="InstantImageTarget" t="Include" />
+          <e p="SceneAssets" t="Include">
+            <e p="CloudReco" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="CloudContentManager.cs" t="Include" />
+                <e p="CloudTrackableEventHandler.cs" t="Include" />
+              </e>
+              <e p="Sprites" t="Include" />
+            </e>
+            <e p="CylinderTargets" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="RotateAroundCylinder.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GroundPlane" t="Include">
+              <e p="Materials" t="Include">
+                <e p="Resources" t="Include" />
+              </e>
+              <e p="Models" t="Include" />
+              <e p="Prefabs" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="GroundPlaneUI.cs" t="Include" />
+                <e p="PlaneManager.cs" t="Include" />
+                <e p="ProductPlacement.cs" t="Include" />
+                <e p="TouchHandler.cs" t="Include" />
+                <e p="UtilityHelper.cs" t="Include" />
+              </e>
+              <e p="Sprites" t="Include" />
+              <e p="Textures" t="Include" />
+            </e>
+            <e p="ImageTargets" t="Include">
+              <e p="Materials" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="VideoController.cs" t="Include" />
+                <e p="VideoTrackableEventHandler.cs" t="Include" />
+              </e>
+              <e p="Sprites" t="Include" />
+              <e p="Textures" t="Include" />
+              <e p="Video" t="Include" />
+            </e>
+            <e p="ModelTargets" t="Include">
+              <e p="Materials" t="Include">
+                <e p="RZR" t="Include" />
+              </e>
+              <e p="Models" t="Include" />
+              <e p="Prefabs" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="ModelTargetsManager.cs" t="Include" />
+                <e p="ModelTargetsUIManager.cs" t="Include" />
+                <e p="MTAdvancedTrackableEventHandler.cs" t="Include" />
+                <e p="MTTrackableEventHandler.cs" t="Include" />
+                <e p="SessionRecording" t="Include">
+                  <e p="CustomSessionRecorder.cs" t="Include" />
+                  <e p="Editor" t="Include">
+                    <e p="SampleEditor.asmdef" t="Include" />
+                    <e p="SharingEnabledPostProcessBuildPlayer.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="RadialTexture.shader" t="Include" />
+              </e>
+              <e p="Sprites" t="Include" />
+              <e p="Textures" t="Include" />
+            </e>
+            <e p="MultiTargets" t="Include">
+              <e p="Materials" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="MultiTargetTrackableEventHandler.cs" t="Include" />
+              </e>
+              <e p="Textures" t="Include" />
+            </e>
+            <e p="ObjectReco" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="ObjectRecoTrackableEventHandler.cs" t="Include" />
+              </e>
+            </e>
+            <e p="RuntimeImageTargets" t="Include" />
+            <e p="SamplesScripts.asmdef" t="Include" />
+            <e p="VirtualButtons" t="Include">
+              <e p="Materials" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="VirtualButtonEventHandler.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Gradient.shader" t="Include" />
+              </e>
+              <e p="Textures" t="Include" />
+            </e>
+            <e p="VuMarks" t="Include">
+              <e p="Animation" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="LookAtObject.cs" t="Include" />
+                <e p="PanelShowHide.cs" t="Include" />
+                <e p="VuMarkHandler.cs" t="Include" />
+                <e p="VuMarkTrackableEventHandler.cs" t="Include" />
+              </e>
+              <e p="Sprites" t="Include" />
+            </e>
+          </e>
+          <e p="Scenes" t="Include" />
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="BallActive.cs" t="Include" />
+          <e p="BallController.cs" t="Include" />
+          <e p="ControllerLine.cs" t="Include" />
+          <e p="ControllerUI.cs" t="Include" />
+          <e p="Cube" t="Include">
+            <e p="Process.cs" t="Include" />
+            <e p="ProcessController.cs" t="Include" />
+          </e>
+          <e p="GoalController.cs" t="Include" />
+          <e p="Menu" t="Include">
+            <e p="GameScene.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+          </e>
+          <e p="PanelShowGide.cs" t="Include" />
+          <e p="Player" t="Include">
+            <e p="Player1.cs" t="Include" />
+            <e p="Player2.cs" t="Include" />
+            <e p="PlayerBase.cs" t="Include" />
+          </e>
+          <e p="PlayerController.cs" t="Include" />
+          <e p="RandomGenerate.cs" t="Include" />
+          <e p="Shop" t="Include">
+            <e p="Item.cs" t="Include" />
+            <e p="Shop.cs" t="Include" />
+          </e>
+          <e p="Wall_X.cs" t="Include" />
+        </e>
+        <e p="Sounds" t="Include" />
+        <e p="StreamingAssets" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="PolitechPract.xml" t="Include" />
+            <e p="Test2.xml" t="Include" />
+            <e p="TestMarkers.xml" t="Include" />
+            <e p="Vuforia_Marslander_RZR_Toy360.xml" t="Include" />
+            <e p="VuforiaMars_Images.xml" t="Include" />
+            <e p="VuforiaMars_ModelTarget.xml" t="Include" />
+            <e p="VuforiaMars_Object_OT.xml" t="Include" />
+            <e p="VuforiaMars_VuMark.xml" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Documentation" t="Include" />
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Fonts &amp; Materials" t="Include" />
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Sprite Assets" t="Include" />
+            <e p="Style Sheets" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+        <e p="UI" t="Include" />
+      </e>
+      <e p="CommonEditor.csproj" t="IncludeRecursive" />
+      <e p="CommonScripts.csproj" t="IncludeRecursive" />
+      <e p="EditorMigrationScripts.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="ParrelSync.csproj" t="IncludeRecursive" />
+      <e p="PolitechPract.sln" t="IncludeFlat" />
+      <e p="SampleEditor.csproj" t="IncludeRecursive" />
+      <e p="SamplesScripts.csproj" t="IncludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="VuforiaVersionCheckerScripts.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

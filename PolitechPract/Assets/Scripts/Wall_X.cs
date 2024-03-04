@@ -10,7 +10,7 @@ public class Wall_X : MonoBehaviour
     {
         if(other.gameObject.tag == "Ball")
         {
-            other.gameObject.GetComponent<BallController>().Flip_X();
+            other.gameObject.GetComponent<BallController>().Flip_Z();
         }   
     }
 }

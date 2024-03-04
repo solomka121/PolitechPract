@@ -15,9 +15,9 @@ public class Player1 : PlayerBase
 
     void FixedUpdate()
     {
-        if (ControllerUI.controllerUI.endGame)
-            return;
-         SetPos(1);
+        // if (ControllerUI.controllerUI.endGame)
+        //     return;
+        //  SetPos(1);
 
        // Vector3 newPos = Camera.main.ScreenToViewportPoint(Input.mousePosition);
        //// Debug.Log(newPos);
@@ -30,6 +30,12 @@ public class Player1 : PlayerBase
      
     }
 
-
+    void OnCollisionEnter(Collision other)
+    {
+        if (other.gameObject.tag == "Ball")
+        {
+            other.gameObject.GetComponent<BallController>().Flip_X();
+        }
+    }
 
 }

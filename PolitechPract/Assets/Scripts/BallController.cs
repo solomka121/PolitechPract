@@ -27,8 +27,7 @@ public class BallController : MonoBehaviour
         transform.position = new Vector3(0, transform.position.y, 0);
         float z = Random.Range(0, 2) * 2f - 1f;
         float x = Random.Range(0, 2) * 2f - 1f;
-        velocity = new Vector3(0, 0, z);
-        speed = 0.065f;
+        velocity = new Vector3(x, 0, z);
     }
 
 
@@ -37,18 +36,19 @@ public class BallController : MonoBehaviour
         if (ControllerUI.controllerUI.endGame)
             return;
         //Debug.Log(velocity.normalized);
-       // velocity = velocity.normalized * speed;
+       velocity = velocity.normalized * speed;
 
-       // transform.position += velocity;
+       transform.position += velocity;
     }
 
-    public void Flip_X()
+    public void Flip_X(float x = 0)
     {
-        //velocity.x *= -1f;
-        //velocity.z *= Random.Range(0, 2) * 2f - 1f;
+        velocity.x *= -1f;
+        // velocity.z *= Random.Range(0, 2) * 2f - 1f;
+        velocity.x += x;
     }
 
-    public void Flip_Z(float x)
+    public void Flip_Z(float x = 0)
     {
         velocity.z *= -1f;
         //Debug.Log(x);
